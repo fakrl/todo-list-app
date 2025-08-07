@@ -1,7 +1,7 @@
 # To-Do List Web Application
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-blue?style=for-the-badge)](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-blue?style=for-the-badge)](https://fakrl.github.io/todo-list-app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/fakrl/todo-list-app)
 
 > **Tugas Mini Project dari RevoU Full-Stack Software Engineering Webinar**  
 > 10-Day Short Course: Software Engineering Career Path
