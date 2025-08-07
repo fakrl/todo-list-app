@@ -60,17 +60,9 @@ todo-list-app/
 - **Smooth hover effects** dan micro-interactions
 - **Mobile-first responsive** design approach
 
-## 📱 Screenshots
-
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Desktop+View)
-
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/400x600/764ba2/ffffff?text=Mobile+View)
-
 ## 🚀 Live Demo
 
-**🌐 Website:** [https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)
+**🌐 Website:** [https://github.com/fakrl/todo-list-app](https://github.com/fakrl/todo-list-app)
 
 Kunjungi website untuk mencoba aplikasi secara langsung!
 
