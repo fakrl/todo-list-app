@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>My To-Do List</h1>
+        </header>
+        
+        <main>
+            <!-- Form Section -->
+            <section class="form-section">
+                <form id="todoForm" class="todo-form">
+                    <div class="input-group">
+                        <input 
+                            type="text" 
+                            id="todoInput" 
+                            placeholder="Enter your task..." 
+                            required
+                        >
+                        <input 
+                            type="date" 
+                            id="dateInput" 
+                            required
+                        >
+                        <button type="submit" class="add-btn">Add Task</button>
+                    </div>
+                </form>
+                
+                <!-- Error message -->
+                <div id="errorMessage" class="error-message"></div>
+            </section>
+
+            <!-- Filter Section -->
+            <section class="filter-section">
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="today">Today</button>
+                    <button class="filter-btn" data-filter="upcoming">Upcoming</button>
+                    <button class="filter-btn" data-filter="overdue">Overdue</button>
+                </div>
+            </section>
+
+            <!-- Todo List Section -->
+            <section class="todo-section">
+                <div id="todoList" class="todo-list">
+                    <!-- Todo items will be dynamically added here -->
+                </div>
+                
+                <div id="emptyState" class="empty-state">
+                    <p>No tasks yet. Add your first task above!</p>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
