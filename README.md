@@ -62,7 +62,7 @@ todo-list-app/
 
 ## 🚀 Live Demo
 
-**🌐 Website:** [https://github.com/fakrl/todo-list-app](https://github.com/fakrl/todo-list-app)
+**🌐 Website:** [https://fakrl.github.io/todo-list-app/](https://fakrl.github.io/todo-list-app/)
 
 Kunjungi website untuk mencoba aplikasi secara langsung!
 
