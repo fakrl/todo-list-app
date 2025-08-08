@@ -150,7 +150,7 @@ This project is created for educational purposes as part of RevoU webinar assign
 
 ## 👤 Author
 
-**[Your Name]**
+**Fakrul**
 - GitHub: [@fakrl](https://github.com/fakrl)
 - Email: fahrulmukhlisin13@gmail.com
 - LinkedIn: [Fakhrul mukhlisin](https://www.linkedin.com/in/fakrl)
